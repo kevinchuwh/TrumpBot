@@ -29,7 +29,7 @@ except tweepy.TweepError:
 
     
 api = tweepy.API(auth)
-statuses = api.user_timeline(id = "25073877", count = 1) #count refers to number of tweets of target you want to find
+statuses = api.user_timeline(id = "25073877", count = 1) #count refers to number of tweets of target you want to find , id is target's id
 
 for status in statuses:
     retweeters = api.retweets(status.id, count=1) #count refers to number of targets
