@@ -1,7 +1,10 @@
 # TrumpBot
 Automated twitter bot that posts tweets to users who have retweeted realDonaldTrump's latest tweet.
+Live demo: [@TrumpGoods](https://twitter.com/TrumpGoods)
 
 Requires Tweepy and Python 3.5 to run.
+
+#HillaryCrook
 
 # License
 MIT License
