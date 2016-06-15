@@ -5,7 +5,7 @@ Live demo: [@TrumpGoods](https://twitter.com/TrumpGoods)
 
 Requires Tweepy and Python 3.5 to run.
 
-#HillaryCrook
+Hillary is a Crook!
 
 # License
 MIT License
